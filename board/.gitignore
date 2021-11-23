@@ -5,3 +5,4 @@ cmake-build-*/
 /src/config.h
 .idea
 .vscode
+.vs
